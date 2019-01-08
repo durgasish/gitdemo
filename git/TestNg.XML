@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Lilypad Data Migration Testcases">
+
+	<listeners>
+		<listener class-name="ExtentReportListener.ExtentListenerReport" />
+	</listeners>
+
+
+	<test name="Norwood Test Cases">
+		<classes>
+			<class name="com.lilypad.qa.testcases.PatientDemographic"></class>
+		</classes>
+	</test>
+</suite>

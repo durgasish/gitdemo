@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Lilypad Data Migration Testcases" duration-ms="665" started-at="2019-01-08T12:23:14Z" finished-at="2019-01-08T12:23:15Z">
+    <groups>
+    </groups>
+    <test name="Norwood Test Cases" duration-ms="665" started-at="2019-01-08T12:23:14Z" finished-at="2019-01-08T12:23:15Z">
+      <class name="com.lilypad.qa.testcases.PatientDemographic">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.lilypad.qa.testcases.PatientDemographic@598067a5]" name="setUp" is-config="true" duration-ms="556" started-at="2019-01-08T23:23:14Z" finished-at="2019-01-08T23:23:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getpatientinfo()[pri:0, instance:com.lilypad.qa.testcases.PatientDemographic@598067a5]" name="getpatientinfo" duration-ms="65" started-at="2019-01-08T23:23:15Z" finished-at="2019-01-08T23:23:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getpatientinfo -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.lilypad.qa.testcases.PatientDemographic@598067a5]" name="teardown" is-config="true" duration-ms="1" started-at="2019-01-08T23:23:15Z" finished-at="2019-01-08T23:23:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.lilypad.qa.testcases.PatientDemographic -->
+    </test> <!-- Norwood Test Cases -->
+  </suite> <!-- Lilypad Data Migration Testcases -->
+</testng-results>
